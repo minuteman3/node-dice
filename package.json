@@ -18,5 +18,8 @@
   ],
   "author": "Miles McGuire",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "tape": "~1.1.1"
+  }
 }
