@@ -1,0 +1,22 @@
+{
+  "name": "node-dice",
+  "version": "0.0.1",
+  "description": "Find the Sørensen–Dice coefficient of two arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minuteman3/node-dice.git"
+  },
+  "keywords": [
+    "sørensen",
+    "dice",
+    "similarity",
+    "coefficient"
+  ],
+  "author": "Miles McGuire",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
