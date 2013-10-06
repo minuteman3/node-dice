@@ -1,18 +1,6 @@
-module.exports = dice;
+var intersection = require('intersect');
 
-function intersection(array1, array2) {
-    'use strict';
-    var temp;
-    if (array2.length > array1.length) {
-        temp = array2;
-        array2 = array1;
-        array1 = temp;
-    }
-    array1 = array1.filter(function (element) {
-        return array2.indexOf(element) !== -1;
-    });
-    return array1;
-}
+module.exports = dice;
 
 function dice(array1, array2) {
     'use strict';
