@@ -1,4 +1,4 @@
-Wordice
-=======
+node-dice
+=========
 
-Find the Sørensen–Dice coefficient of two words
+Find the Sørensen–Dice coefficient of two arrays
